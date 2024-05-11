@@ -3,7 +3,7 @@ import { galleryItems } from "./gallery-items.js";
 
 console.log(galleryItems);
 
-// Gallery items
+// ul Gallery
 const gallery = document.querySelector(".gallery");
 
 // Loop through gallery items and create a list item for each
